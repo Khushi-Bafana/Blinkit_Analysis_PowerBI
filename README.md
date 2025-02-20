@@ -21,7 +21,7 @@ Through data analysis, we derived the following key insights:
 4. **Customer Satisfaction:** Measured the average rating of sold items to understand customer preferences and areas of improvement.
 
 ## Tools Used
-- **Microsoft Power BI:** Used for interactive data visualization and dashboards. Used Data Analysis Expressions(DAX) for Data transformation and Data Manipulation. Also used Power Query for advanced calculations and metrics.
+- **Microsoft Power BI:** Utilized for building dynamic data visualizations and dashboards, with Data Analysis Expressions (DAX) for transforming and manipulating data, and Power Query for executing complex calculations and metrics.
 - **Microsoft Excel:** Data cleaning, preprocessing, and initial exploratory analysis.
 
 ## How to Use the Project
